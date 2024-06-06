@@ -5,7 +5,7 @@ Restaurant Management System is a task management service developed on the .NET 
 ## Features
 
 - User authentication and authorization
-- Role management
+- Permission management
 - File upload
 - Logging with Serilog
 - Response handling and pagination
